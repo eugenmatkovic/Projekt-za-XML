@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="kolekcija_igara.xsl"?>
+<Photos>
+   <Photo>
+      <Name>Bars</Name>
+      <ShortName>img/gallery/gallery-item-01.jpg</ShortName>
+      <Description>Check out the bars around us.</Description>
+      <Category>Nature</Category>
+  </Photo>
+  <Photo>
+      <Name>Wildlife</Name>
+      <ShortName>img/gallery/gallery-item-02.jpg</ShortName>
+      <Description>Best shots from our wildlife photographers.</Description>
+      <Category>Animals</Category>
+  </Photo>
+  <Photo>
+      <Name>Best creations</Name>
+      <ShortName>img/gallery/gallery-item-03.jpg</ShortName>
+      <Description>This is our special flower design work</Description>
+      <Category>Nature</Category>
+  </Photo>  
+    <Photo>
+      <Name>Yellow forests</Name>
+      <ShortName>img/gallery/gallery-item-04.jpg</ShortName>
+      <Description>Explore our beautiful yellow forests gallery</Description>
+      <Category>Nature</Category>
+  </Photo>  
+    <Photo>
+      <Name>Dogs</Name>
+      <ShortName>img/gallery/gallery-item-05.jpg</ShortName>
+      <Description>Look at the beautiful pictures of our dogs.</Description>
+      <Category>Animals</Category>
+  </Photo>  
+    <Photo>
+      <Name>Cats</Name>
+      <ShortName>img/gallery/gallery-item-06.jpg</ShortName>
+      <Description>Look at the beautiful pictures of our cats.</Description>
+      <Category>Animals</Category>
+  </Photo>  
+    <Photo>
+      <Name>Nature</Name>
+      <ShortName>img/gallery/gallery-item-07.jpg</ShortName>
+      <Description>Nature photos from all over the country</Description>
+      <Category>Nature</Category>
+  </Photo>  
+    <Photo>
+      <Name>Portraits</Name>
+      <ShortName>img/gallery/gallery-item-08.jpg</ShortName>
+      <Description>Pictures of our beautiful models</Description>
+      <Category>People</Category>
+  </Photo>  
+    <Photo>
+      <Name>Festivals</Name>
+      <ShortName>img/gallery/gallery-item-09.jpg</ShortName>
+      <Description>Explore the festivals in our town</Description>
+      <Category>People</Category>
+  </Photo>  
+    <Photo>
+      <Name>Influencers</Name>
+      <ShortName>img/gallery/gallery-item-10.jpg</ShortName>
+      <Description>Follow influencers from our country</Description>
+      <Category>People</Category>
+  </Photo>
+ 
+</Photos>
